@@ -1,4 +1,4 @@
-public class Name {
+public class Uc5 {
     public static void main(String[] args) {
 
         String name = "World";
